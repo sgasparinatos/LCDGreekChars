@@ -1,6 +1,12 @@
 ## LCDGreekChars ##
 
-Utility lib to print greek capital chars on char lcd displays using on RPLCD on Raspberry PIs
+Utility lib to print greek capital chars on char lcd displays with Hitachi HD44780 controller using on RPLCD on Raspberry Pi
+
+### Dependency ###
+
+You only need the RPLCD lib created by dbrgn, you can download it from here 
+https://github.com/dbrgn/RPLCD
+
 
 ### Usage ###
 
