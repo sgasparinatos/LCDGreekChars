@@ -9,3 +9,4 @@ if __name__ == '__main__':
 
     grlcd.show_text(0,0,"ENGLISH")
     grlcd.show_greek_text(1,0,"EllHNIKA")
+    grlcd.show_greek_text(2,0,"ABgdEZHuIKlMNjOpPsTYfXcv")
